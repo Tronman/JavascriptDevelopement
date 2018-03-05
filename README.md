@@ -10,4 +10,4 @@ i.e Node packages .
 
 1. MyProfile
 
-Digital CV written in Javascript , HTML5 and CSS3. This project displays my basic web development skills
+	Digital CV written in Javascript , HTML5 and CSS3. This project displays my basic web development skills
